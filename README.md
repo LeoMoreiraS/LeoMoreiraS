@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Javascript.
 - 👯 I'm an undergrad student of **Information Systems - UFOP** based in João Monlevade.
 - 🤔 I studied for a while in the Systems Development Course at COLTEC-UFMG.
-- 💬 Ask me about Games
+- 💬 Ask me about anything
 -->
 
 
