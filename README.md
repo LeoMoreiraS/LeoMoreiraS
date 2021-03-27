@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 - 🔭 I’m currently a trainee at [Visão Jr](https://www.visaojr.com.br/). 
-- 🌱 I’m currently learning Javascript.
-- 👯 I'm an undergrad student of **Information Systems - UFOP** based in João Monlevade.
-- 🤔 I studied for a while in the Systems Development Course at COLTEC-UFMG.
+- 📚 I’m currently learning Javascript.
+- 📝 I'm an undergrad student of **Information Systems - UFOP** based in João Monlevade.
+- 🎓 I studied Systems Development at COLTEC-UFMG.
 - 💬 Ask me about anything
 -->
 
