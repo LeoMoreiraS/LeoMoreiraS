@@ -1,3 +1,5 @@
+<img style="width=100%;" src="./banner.png"></img>
+
 ### Hi there 👋
 
 - 🔭 I’m currently a trainee at [Visão Jr](https://www.visaojr.com.br/). 
