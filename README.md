@@ -8,6 +8,11 @@
 -->
 
 
+![Leonardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeoMoreiraS&theme=gotham&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeoMoreiraS&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 <!--
 **LeoMoreiraS/LeoMoreiraS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
