@@ -9,10 +9,12 @@
 - 💬 Ask me about anything
 -->
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeoMoreiraS&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)  
 
 ![Leonardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeoMoreiraS&theme=gotham&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeoMoreiraS&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=LeoMoreiraS&theme=gotham&no-bg=true&no-frame=false&column=4&margin-w=19&margin-h=30)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 <!--
