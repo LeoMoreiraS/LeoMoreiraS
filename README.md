@@ -1,33 +1,42 @@
 <img style="width=100%;" src="./banner.png"></img>
 
-### Hi there 👋
-
-- 🔭 I’m currently a trainee at [Visão Jr](https://www.visaojr.com.br/). 
-- 📚 I’m currently learning Javascript.
+👋 Hi there 
+---
+- 🔭 I’m currently a Fullstack developer 
+- 📚 I work with Typescript on Node.js and React.js
 - 📝 I'm an undergrad student of **Information Systems - UFOP** based in João Monlevade.
 - 🎓 I studied Systems Development at COLTEC-UFMG.
-- 💬 Ask me about anything
--->
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeoMoreiraS&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)  
-
-![Leonardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeoMoreiraS&theme=gotham&show_icons=true)
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=LeoMoreiraS&theme=gotham&no-bg=true&no-frame=false&column=4&margin-w=19&margin-h=30)](https://github.com/ryo-ma/github-profile-trophy)
-
-
-<!--
-**LeoMoreiraS/LeoMoreiraS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning Javascript
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 Stats
+---
+<div align="center">
+  
+  <a width="45%">
+    <img  height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoMoreiraS&theme=gotham&layout=compact">  
+  </a>
+  
+  <a width="45%">
+    <img height="180" width="45%" src="https://github-readme-stats.vercel.app/api?username=LeoMoreiraS&theme=gotham&show_icons=true">
+  </a>
+  
+  <a align="center">
+    <img width="100%"  src="https://github-profile-trophy.vercel.app/?username=LeoMoreiraS&theme=gotham&no-bg=true&no-frame=false&column=7">
+  </a>
+  
+</div>
+ 
+📫 How to reach me 
+---
+<p align="center">
+      <br/>
+      <a href="https://www.linkedin.com/in/leonardo-moreira-01abba175/" target="blank"><img align="center"
+         src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
+         alt="LeoMoreiraS" height="30"/></a>
+      <a href="https://mailto:leomoreira.com@gmail.com" target="blank"><img align="center"
+         src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
+         alt="LeoMoreiraS" height="30"/></a>
+      <a href="https://wa.me/+5531987792589" target="blank"><img align="center"
+           src="https://img.shields.io/badge/whatsapp-4B7F1.svg?style=for-the-badge&logo=whatsapp&logoColor=white"
+           alt="LeoMoreiraS" height="30"/></a>
+</p>
