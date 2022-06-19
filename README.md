@@ -13,15 +13,15 @@
 <div align="center">
   
   <a width="45%">
-    <img  height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoMoreiraS&theme=gotham&layout=compact">  
+    <img  height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoMoreiraS&theme=tokyonight&layout=compact">  
   </a>
   
   <a width="45%">
-    <img height="150" src="https://github-readme-stats.vercel.app/api?username=LeoMoreiraS&theme=gotham&show_icons=true">
+    <img height="150" src="https://github-readme-stats.vercel.app/api?username=LeoMoreiraS&theme=tokyonight&show_icons=true">
   </a>
   
   <a align="center">
-    <img width="100%"  src="https://github-profile-trophy.vercel.app/?username=LeoMoreiraS&theme=gotham&no-bg=true&no-frame=false&column=7">
+    <img width="100%"  src="https://github-profile-trophy.vercel.app/?username=LeoMoreiraS&theme=tokyonight&no-bg=true&no-frame=false&column=7">
   </a>
   
 </div>
