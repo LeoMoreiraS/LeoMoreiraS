@@ -33,7 +33,7 @@
       <a href="https://www.linkedin.com/in/leonardo-moreira-01abba175/" target="blank"><img align="center"
          src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
          alt="LeoMoreiraS" height="30"/></a>
-      <a href="https://mailto:leomoreira.com@gmail.com" target="blank"><img align="center"
+      <a href="mailto: leomoreira.com@gmail.com" target="blank"><img align="center"
          src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
          alt="LeoMoreiraS" height="30"/></a>
       <a href="https://wa.me/+5531987792589" target="blank"><img align="center"
