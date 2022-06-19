@@ -13,11 +13,11 @@
 <div align="center">
   
   <a width="45%">
-    <img  height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoMoreiraS&theme=gotham&layout=compact">  
+    <img  height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoMoreiraS&theme=gotham&layout=compact">  
   </a>
   
   <a width="45%">
-    <img height="180" width="45%" src="https://github-readme-stats.vercel.app/api?username=LeoMoreiraS&theme=gotham&show_icons=true">
+    <img height="150" src="https://github-readme-stats.vercel.app/api?username=LeoMoreiraS&theme=gotham&show_icons=true">
   </a>
   
   <a align="center">
